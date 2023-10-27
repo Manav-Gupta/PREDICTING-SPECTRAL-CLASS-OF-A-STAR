@@ -1,4 +1,4 @@
-# Spectral_class
+# PREDICTING SPECTRAL CLASS OF A STAR
 This project determines the spectral class of a star (O,B,A,F,G,K,,M) which is based on the size and heat of star according to the H-R diagram. With the help of other features containing different properties of a star, LSTM is employed to classfy the star using the given set of data. LSTM while mostly used for regression can also be employed for classification thus making it a robust machine learning technique used for various applications. 
 
 Dataset : https://www.kaggle.com/deepu1109/star-dataset
